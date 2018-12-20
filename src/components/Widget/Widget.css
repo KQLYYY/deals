@@ -1,0 +1,63 @@
+div .widget{
+  width: 47vw;
+  height: 30vw;
+  background-color: blanchedalmond;
+  margin: 1vw;
+  border: 1px solid black;
+  text-align: center;
+  display: inline-block;
+}
+
+div .toolbar{
+  width: 47vw;
+  height: 2vw;
+  background-color: cornflowerblue;
+  border: 1px solid black;
+}
+
+div .close{
+  width: 5vw;
+  height: 2vw;
+  background-color: grey;
+  background-color: azure;
+  float: right;
+}
+
+div .maximaze{
+  width: 5vw;
+  height: 2vw;
+  /* background-color: yellow; */
+  background-color: azure;
+  border-right: 1px solid black;
+  float: right;
+}
+
+div .collapse{
+  width: 5vw;
+  height: 2vw;
+  /* background-color: aqua; */
+  background-color: azure;
+  border-right: 1px solid black;
+  float: right;
+}
+
+div .widget .content{
+  width: 47vw;
+  height: 28vw;
+  background-color: cadetblue;
+  border: 1px solid black;
+  text-align: center;
+  display: block;
+}
+
+.close img{
+  height: 2vw;
+}
+
+.collapse img{
+  height: 2vw;
+}
+
+.maximaze img{
+  height: 2vw;
+}
